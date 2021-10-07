@@ -1,0 +1,7 @@
+.hide {
+	display: none;
+}
+#delete:hover + .hide {
+	display: inline;
+	color: blue;
+}
